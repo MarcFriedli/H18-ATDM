@@ -1,0 +1,730 @@
+Condition1,Exterior1st,Exterior2nd,Fireplaces,FireplaceQu
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,VinylSd,VinylSd,0,NA,C1
+Feedr,BrkFace,BrkFace,0,NA,C1
+Norm,VinylSd,VinylSd,0,NA,C1
+Norm,AsbShng,AsbShng,1,Po,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,Stucco,Stucco,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Feedr,MetalSd,MetalSd,0,NA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Feedr,MetalSd,MetalSd,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Artery,MetalSd,MetalSd,0,NA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Norm,AsbShng,AsbShng,0,NA,C1
+Feedr,Wd Sdng,VinylSd,0,NA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Feedr,Wd Sdng,AsbShng,0,NA,C1
+Norm,VinylSd,VinylSd,0,NA,C1
+Norm,VinylSd,VinylSd,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Norm,VinylSd,VinylSd,0,NA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+RRAe,MetalSd,MetalSd,0,NA,C1
+Norm,AsbShng,Stucco,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Norm,Wd Sdng,Wd Shng,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,BrkFace,Stone,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,1,Gd,C1
+Artery,MetalSd,MetalSd,1,TA,C1
+Norm,CemntBd,CmentBd,0,NA,C1
+Norm,BrkFace,BrkFace,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,1,Gd,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,HdBoard,HdBoard,1,Po,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Artery,VinylSd,VinylSd,0,NA,C1
+Artery,HdBoard,HdBoard,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,BrkFace,BrkFace,0,NA,C1
+Norm,Stucco,Stucco,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Norm,Plywood,Plywood,1,TA,C1
+Norm,AsbShng,AsbShng,0,NA,C1
+Feedr,WdShing,Wd Shng,2,TA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,1,Gd,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Artery,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,AsbShng,AsbShng,0,NA,C1
+Artery,CBlock,CBlock,0,NA,C1
+Norm,WdShing,Wd Shng,0,NA,C1
+Artery,Wd Sdng,Wd Sdng,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,AsbShng,AsbShng,0,NA,C1
+Norm,HdBoard,HdBoard,0,NA,C1
+Norm,MetalSd,MetalSd,0,NA,C1
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,Plywood,Plywood,1,TA,C2
+Norm,VinylSd,VinylSd,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Feedr,VinylSd,VinylSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,WdShing,Wd Shng,1,Gd,C2
+Artery,MetalSd,MetalSd,1,Gd,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,VinylSd,VinylSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+RRNn,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Artery,MetalSd,MetalSd,1,Gd,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Artery,MetalSd,MetalSd,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,BrkFace,BrkFace,0,NA,C2
+Norm,VinylSd,VinylSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,VinylSd,VinylSd,1,Gd,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Feedr,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,VinylSd,VinylSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Artery,WdShing,Wd Shng,1,Gd,C2
+Norm,HdBoard,HdBoard,1,TA,C2
+Norm,Plywood,Plywood,1,TA,C2
+Artery,MetalSd,MetalSd,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,Stucco,Stucco,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Feedr,VinylSd,VinylSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,1,Fa,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Artery,MetalSd,MetalSd,2,TA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,Plywood,Plywood,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,VinylSd,VinylSd,0,NA,C2
+Norm,Plywood,Plywood,1,TA,C2
+Norm,WdShing,Wd Shng,0,NA,C2
+Norm,Stucco,Stucco,1,Gd,C2
+Norm,WdShing,Wd Shng,1,Gd,C2
+Norm,HdBoard,Plywood,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,Wd Sdng,Wd Sdng,1,Gd,C2
+Norm,Wd Sdng,Wd Sdng,1,Gd,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,MetalSd,MetalSd,0,NA,C2
+Norm,HdBoard,HdBoard,1,Po,C2
+Norm,VinylSd,VinylSd,0,NA,C2
+Norm,HdBoard,HdBoard,0,NA,C2
+Artery,VinylSd,VinylSd,0,NA,C2
+Norm,MetalSd,MetalSd,1,TA,C2
+Norm,Plywood,Plywood,0,NA,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+Artery,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+RRAe,HdBoard,HdBoard,0,NA,C3
+Norm,MetalSd,MetalSd,1,Fa,C3
+Norm,HdBoard,Wd Sdng,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,Plywood,Plywood,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,CemntBd,CmentBd,1,TA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,WdShing,Plywood,0,NA,C3
+Norm,Plywood,Plywood,1,Fa,C3
+Norm,Plywood,Plywood,1,TA,C3
+RRNn,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,Wd Sdng,Wd Shng,1,Gd,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+Feedr,MetalSd,MetalSd,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,HdBoard,Plywood,1,Po,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,Plywood,Plywood,0,NA,C3
+RRAn,HdBoard,HdBoard,0,NA,C3
+Feedr,VinylSd,VinylSd,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+Norm,AsbShng,AsbShng,1,Gd,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,Wd Sdng,ImStucc,0,NA,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+RRAn,Stucco,Wd Shng,0,NA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,1,Gd,C3
+Feedr,HdBoard,HdBoard,1,TA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,Plywood,HdBoard,0,NA,C3
+Norm,VinylSd,VinylSd,1,Gd,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,Wd Sdng,Wd Shng,0,NA,C3
+Norm,HdBoard,Plywood,0,NA,C3
+Norm,HdBoard,HdBoard,0,NA,C3
+Norm,BrkFace,Plywood,0,NA,C3
+Norm,MetalSd,MetalSd,1,Gd,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Artery,Wd Sdng,Wd Sdng,2,TA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Feedr,HdBoard,HdBoard,0,NA,C3
+Norm,BrkFace,Wd Sdng,0,NA,C3
+Norm,MetalSd,MetalSd,1,Gd,C3
+Norm,WdShing,HdBoard,0,NA,C3
+Norm,CemntBd,CmentBd,1,Po,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,Wd Sdng,Wd Sdng,0,NA,C3
+Norm,HdBoard,HdBoard,2,Gd,C3
+Norm,Plywood,Plywood,0,NA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Feedr,HdBoard,Plywood,1,TA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,MetalSd,MetalSd,0,NA,C3
+Norm,VinylSd,VinylSd,0,NA,C3
+Norm,MetalSd,MetalSd,2,TA,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,MetalSd,MetalSd,1,Gd,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Feedr,VinylSd,VinylSd,0,NA,M1
+Norm,HdBoard,HdBoard,0,NA,M1
+Norm,WdShing,Wd Shng,1,Gd,M1
+Feedr,MetalSd,MetalSd,0,NA,M1
+Norm,Plywood,Plywood,0,NA,M1
+Norm,MetalSd,MetalSd,1,Gd,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,0,NA,M1
+Norm,VinylSd,Wd Sdng,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,1,Gd,M1
+Artery,MetalSd,MetalSd,0,NA,M1
+Feedr,VinylSd,VinylSd,0,NA,M1
+Norm,HdBoard,HdBoard,0,NA,M1
+Norm,MetalSd,Wd Shng,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,0,NA,M1
+Norm,VinylSd,VinylSd,1,Gd,M1
+Norm,BrkFace,Wd Sdng,1,Gd,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,Wd Sdng,Wd Shng,1,Gd,M1
+RRAn,Stucco,Stucco,0,NA,M1
+Norm,Wd Sdng,BrkFace,1,TA,M1
+Feedr,MetalSd,MetalSd,0,NA,M1
+Feedr,Wd Sdng,Wd Sdng,1,Po,M1
+Norm,HdBoard,HdBoard,0,NA,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Artery,MetalSd,MetalSd,1,TA,M1
+RRAn,MetalSd,MetalSd,1,Gd,M1
+Norm,Wd Sdng,Wd Sdng,1,Po,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,1,TA,M1
+Artery,BrkFace,BrkFace,0,NA,M1
+Norm,Wd Sdng,Wd Sdng,0,NA,M1
+Norm,VinylSd,VinylSd,1,Fa,M1
+Feedr,HdBoard,HdBoard,0,NA,M1
+Norm,Plywood,Plywood,0,NA,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,HdBoard,HdBoard,0,NA,M1
+Norm,HdBoard,HdBoard,0,NA,M1
+Feedr,Plywood,Plywood,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,Plywood,Plywood,1,TA,M1
+Norm,HdBoard,HdBoard,1,TA,M1
+Artery,VinylSd,VinylSd,0,NA,M1
+Feedr,HdBoard,HdBoard,2,Gd,M1
+Norm,HdBoard,Plywood,0,NA,M1
+Norm,Plywood,Plywood,0,NA,M1
+Norm,HdBoard,Plywood,0,NA,M1
+Norm,Plywood,Plywood,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,MetalSd,MetalSd,1,Gd,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,VinylSd,VinylSd,1,Gd,M1
+Norm,HdBoard,HdBoard,1,Gd,M1
+Norm,Wd Sdng,Wd Sdng,0,NA,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,MetalSd,MetalSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Feedr,MetalSd,MetalSd,0,NA,M1
+Norm,VinylSd,VinylSd,0,NA,M1
+Feedr,MetalSd,MetalSd,0,NA,M1
+Norm,Plywood,Brk Cmn,1,TA,M1
+Norm,Plywood,HdBoard,0,NA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,HdBoard,HdBoard,1,Fa,M2
+Norm,VinylSd,VinylSd,0,NA,M2
+Norm,HdBoard,HdBoard,1,TA,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,HdBoard,HdBoard,1,Po,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,VinylSd,VinylSd,1,Gd,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,HdBoard,HdBoard,1,TA,M2
+Artery,MetalSd,MetalSd,0,NA,M2
+Norm,VinylSd,VinylSd,0,NA,M2
+Norm,HdBoard,Plywood,2,Gd,M2
+Norm,Plywood,Plywood,0,NA,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,Plywood,Plywood,0,NA,M2
+Norm,MetalSd,MetalSd,1,TA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,CemntBd,CmentBd,1,Gd,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+RRAn,WdShing,HdBoard,0,NA,M2
+Norm,HdBoard,Plywood,0,NA,M2
+Norm,AsbShng,AsbShng,2,Gd,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,VinylSd,VinylSd,0,NA,M2
+Norm,Plywood,Plywood,0,NA,M2
+Artery,Wd Sdng,Wd Sdng,1,Gd,M2
+Norm,VinylSd,Wd Shng,0,NA,M2
+Norm,BrkFace,BrkFace,0,NA,M2
+Feedr,MetalSd,MetalSd,0,NA,M2
+Norm,Wd Sdng,Wd Sdng,1,Gd,M2
+Feedr,Wd Sdng,Wd Sdng,0,NA,M2
+Feedr,Wd Sdng,Wd Sdng,0,NA,M2
+Norm,BrkFace,Wd Sdng,1,Fa,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,VinylSd,VinylSd,0,NA,M2
+Norm,VinylSd,VinylSd,1,TA,M2
+Norm,BrkFace,BrkFace,2,Gd,M2
+Norm,VinylSd,VinylSd,1,Gd,M2
+Norm,MetalSd,MetalSd,1,Fa,M2
+Norm,MetalSd,MetalSd,2,Gd,M2
+Norm,Wd Sdng,Wd Sdng,2,Gd,M2
+Norm,MetalSd,MetalSd,1,Po,M2
+Norm,MetalSd,MetalSd,0,NA,M2
+Norm,HdBoard,HdBoard,1,TA,M2
+Norm,HdBoard,HdBoard,0,NA,M2
+Norm,HdBoard,HdBoard,1,TA,M2
+Norm,Wd Sdng,Wd Sdng,1,Gd,M2
+Norm,Plywood,Plywood,2,Gd,M2
+Norm,Wd Sdng,VinylSd,0,NA,M2
+Norm,HdBoard,Plywood,0,NA,M2
+Norm,BrkFace,BrkFace,1,Fa,M2
+Norm,VinylSd,VinylSd,1,Gd,M2
+Norm,VinylSd,VinylSd,0,NA,M2
+Norm,MetalSd,MetalSd,2,TA,M2
+Norm,Wd Sdng,Wd Sdng,2,TA,M2
+Norm,BrkFace,BrkFace,1,Gd,M2
+Norm,MetalSd,MetalSd,1,Gd,M2
+Norm,Wd Sdng,Wd Sdng,2,TA,M2
+Norm,Wd Sdng,Wd Sdng,1,Gd,M2
+RRAn,VinylSd,VinylSd,0,NA,M2
+Norm,VinylSd,VinylSd,0,NA,M2
+Norm,HdBoard,Plywood,1,TA,M2
+Norm,Plywood,Plywood,0,NA,M2
+Norm,Wd Sdng,Wd Sdng,2,TA,M2
+Norm,MetalSd,MetalSd,1,TA,M3
+Norm,VinylSd,VinylSd,1,Gd,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,MetalSd,MetalSd,0,NA,M3
+Norm,VinylSd,VinylSd,1,Gd,M3
+Norm,Plywood,Plywood,1,Gd,M3
+Norm,Plywood,Plywood,1,TA,M3
+PosN,Wd Sdng,Plywood,1,Gd,M3
+Norm,MetalSd,MetalSd,0,NA,M3
+Norm,Wd Sdng,Wd Sdng,2,TA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,Plywood,Plywood,1,TA,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Artery,BrkFace,Wd Sdng,0,NA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+RRAn,HdBoard,HdBoard,0,NA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,HdBoard,HdBoard,0,NA,M3
+Norm,Plywood,Plywood,1,TA,M3
+Norm,MetalSd,MetalSd,1,TA,M3
+Feedr,Plywood,Wd Sdng,0,NA,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+PosN,VinylSd,VinylSd,1,TA,M3
+Norm,HdBoard,HdBoard,0,NA,M3
+RRAn,VinylSd,VinylSd,1,Gd,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+Norm,Wd Sdng,Plywood,1,Gd,M3
+Norm,HdBoard,HdBoard,0,NA,M3
+Norm,Plywood,Plywood,2,TA,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Norm,Plywood,Plywood,1,Po,M3
+Norm,Plywood,Plywood,2,Fa,M3
+Norm,HdBoard,HdBoard,1,Po,M3
+Norm,MetalSd,MetalSd,0,NA,M3
+Norm,MetalSd,MetalSd,1,Gd,M3
+Norm,MetalSd,MetalSd,0,NA,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,HdBoard,HdBoard,0,NA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Feedr,HdBoard,HdBoard,0,NA,M3
+RRAn,VinylSd,VinylSd,1,TA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,VinylSd,VinylSd,1,Gd,M3
+Norm,VinylSd,VinylSd,1,Gd,M3
+Norm,MetalSd,MetalSd,0,NA,M3
+Norm,Wd Sdng,Wd Sdng,1,Gd,M3
+Norm,MetalSd,MetalSd,1,Gd,M3
+Norm,HdBoard,HdBoard,0,NA,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Norm,HdBoard,HdBoard,1,Fa,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+Norm,VinylSd,Wd Shng,0,NA,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Norm,HdBoard,HdBoard,1,TA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,VinylSd,VinylSd,1,Gd,M3
+Norm,MetalSd,MetalSd,1,TA,M3
+Norm,MetalSd,MetalSd,0,NA,M3
+Norm,VinylSd,VinylSd,1,Gd,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+Norm,VinylSd,VinylSd,1,TA,M3
+RRAn,VinylSd,VinylSd,1,TA,M3
+Norm,Plywood,Plywood,0,NA,M3
+Norm,VinylSd,VinylSd,0,NA,M3
+Norm,Plywood,ImStucc,0,NA,M3
+Norm,HdBoard,HdBoard,0,NA,M3
+Norm,MetalSd,MetalSd,0,NA,M4
+Norm,Wd Sdng,Wd Sdng,1,Gd,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+RRAn,VinylSd,VinylSd,1,TA,M4
+Norm,BrkFace,BrkFace,1,Gd,M4
+PosA,Plywood,Plywood,1,Gd,M4
+Norm,Plywood,Plywood,2,TA,M4
+Norm,Plywood,Plywood,1,TA,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,Plywood,Plywood,1,TA,M4
+Norm,HdBoard,HdBoard,1,TA,M4
+Norm,HdBoard,Plywood,1,Gd,M4
+Norm,Wd Sdng,Wd Sdng,1,Gd,M4
+Norm,Wd Sdng,HdBoard,1,Gd,M4
+Norm,HdBoard,HdBoard,1,TA,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Feedr,MetalSd,MetalSd,1,TA,M4
+Norm,Wd Sdng,Wd Sdng,2,Gd,M4
+Norm,CemntBd,CmentBd,0,NA,M4
+Norm,MetalSd,MetalSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,Wd Sdng,Wd Sdng,0,NA,M4
+RRAn,VinylSd,VinylSd,1,Gd,M4
+PosN,CemntBd,CmentBd,1,Gd,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,Plywood,Plywood,0,NA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,HdBoard,HdBoard,1,TA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+PosN,BrkFace,BrkFace,1,Gd,M4
+Norm,MetalSd,MetalSd,2,TA,M4
+RRNe,HdBoard,HdBoard,0,NA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,Plywood,Plywood,2,TA,M4
+Norm,HdBoard,HdBoard,1,TA,M4
+Norm,HdBoard,HdBoard,1,TA,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,Stucco,Stucco,1,Gd,M4
+Norm,WdShing,Wd Shng,1,Gd,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,Wd Sdng,Wd Sdng,1,Gd,M4
+Norm,Plywood,Plywood,1,TA,M4
+Norm,Wd Sdng,Wd Sdng,1,TA,M4
+PosA,BrkFace,Plywood,1,Gd,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,Wd Sdng,Wd Sdng,0,NA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,MetalSd,MetalSd,1,Gd,M4
+Norm,Plywood,Plywood,1,TA,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,Plywood,Plywood,1,Fa,M4
+Norm,VinylSd,VinylSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Feedr,Plywood,Plywood,1,TA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,MetalSd,MetalSd,1,TA,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,VinylSd,VinylSd,1,Gd,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,VinylSd,VinylSd,0,NA,M4
+Norm,HdBoard,HdBoard,1,TA,M4
+Norm,MetalSd,MetalSd,1,Gd,M4
+PosN,Plywood,Plywood,1,TA,M4
+Norm,HdBoard,HdBoard,1,Ex,M4
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,MetalSd,MetalSd,1,Gd,E1
+Norm,Wd Sdng,Stone,2,TA,E1
+Norm,HdBoard,HdBoard,0,NA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,Wd Sdng,Wd Sdng,0,NA,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,Plywood,Plywood,2,TA,E1
+Norm,VinylSd,VinylSd,2,Fa,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,HdBoard,HdBoard,2,Gd,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,MetalSd,MetalSd,2,Gd,E1
+Norm,HdBoard,HdBoard,1,TA,E1
+Norm,Plywood,Plywood,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,BrkFace,Wd Sdng,1,Gd,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+RRAn,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,BrkFace,Plywood,2,Gd,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,Plywood,Plywood,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,Plywood,Plywood,1,TA,E1
+Norm,Plywood,Plywood,1,Fa,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,HdBoard,HdBoard,1,TA,E1
+Norm,MetalSd,MetalSd,1,Gd,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,MetalSd,MetalSd,1,Gd,E1
+Norm,Wd Sdng,Plywood,1,Gd,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,Plywood,Plywood,1,TA,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+PosN,HdBoard,HdBoard,1,Gd,E1
+Feedr,HdBoard,Plywood,1,TA,E1
+Norm,MetalSd,MetalSd,0,NA,E1
+Norm,CemntBd,CmentBd,0,NA,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,MetalSd,MetalSd,2,Gd,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,VinylSd,VinylSd,0,NA,E1
+Norm,Plywood,Plywood,1,TA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,Plywood,Plywood,2,Gd,E1
+Norm,HdBoard,HdBoard,0,NA,E1
+Norm,VinylSd,VinylSd,1,Gd,E1
+Norm,VinylSd,VinylSd,1,TA,E1
+Norm,Stone,Stone,1,Gd,E1
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,BrkFace,Stucco,2,Gd,E2
+Norm,VinylSd,VinylSd,0,NA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+RRAn,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,0,NA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,MetalSd,MetalSd,2,Gd,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Feedr,VinylSd,VinylSd,0,NA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,BrkFace,Plywood,2,Gd,E2
+Norm,HdBoard,HdBoard,1,TA,E2
+Norm,HdBoard,HdBoard,1,TA,E2
+Feedr,Wd Sdng,Stucco,1,Gd,E2
+Norm,Wd Sdng,Wd Sdng,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,Ex,E2
+Norm,VinylSd,VinylSd,0,NA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,CemntBd,CmentBd,0,NA,E2
+PosN,Wd Sdng,Wd Sdng,1,Gd,E2
+Norm,WdShing,Wd Shng,1,Gd,E2
+Norm,BrkFace,BrkFace,2,TA,E2
+Norm,MetalSd,MetalSd,2,TA,E2
+Feedr,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,0,NA,E2
+Norm,BrkFace,BrkFace,2,Gd,E2
+Norm,VinylSd,VinylSd,0,NA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,BrkFace,BrkFace,1,Gd,E2
+Norm,MetalSd,MetalSd,0,NA,E2
+Norm,VinylSd,VinylSd,0,NA,E2
+Norm,CemntBd,CmentBd,0,NA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,MetalSd,MetalSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,CemntBd,CmentBd,1,Gd,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,CemntBd,CmentBd,2,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,HdBoard,HdBoard,1,TA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,HdBoard,HdBoard,1,Ex,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+RRAn,VinylSd,VinylSd,0,NA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,MetalSd,MetalSd,1,Ex,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,BrkFace,BrkFace,1,Gd,E2
+Norm,CemntBd,CmentBd,2,Gd,E2
+PosN,HdBoard,HdBoard,1,TA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,Plywood,Plywood,1,Gd,E2
+Norm,Wd Sdng,Wd Sdng,1,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,HdBoard,HdBoard,1,TA,E2
+Norm,VinylSd,VinylSd,1,TA,E2
+Norm,VinylSd,VinylSd,1,Gd,E2
+Norm,CemntBd,CmentBd,1,Gd,E2
+Norm,Wd Sdng,HdBoard,2,TA,E2
+Norm,CemntBd,CmentBd,1,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,MetalSd,MetalSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,TA,E3
+Norm,HdBoard,HdBoard,1,TA,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,TA,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,BrkFace,Wd Sdng,2,TA,E3
+Norm,VinylSd,VinylSd,1,TA,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,CemntBd,CmentBd,1,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,2,TA,E3
+Norm,HdBoard,HdBoard,1,TA,E3
+Norm,Plywood,Plywood,2,TA,E3
+Norm,Wd Sdng,Wd Sdng,1,Ex,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,CemntBd,CmentBd,0,NA,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,TA,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,Other,1,TA,E3
+Norm,MetalSd,MetalSd,1,Gd,E3
+Norm,Plywood,Plywood,2,TA,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,VinylSd,VinylSd,2,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,Wd Sdng,Wd Sdng,0,NA,E3
+Norm,MetalSd,MetalSd,1,TA,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,TA,E3
+Norm,WdShing,Wd Shng,2,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,3,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,MetalSd,MetalSd,1,Gd,E3
+Norm,VinylSd,VinylSd,2,Gd,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,BrkFace,BrkFace,2,Gd,E3
+Norm,VinylSd,VinylSd,2,Gd,E3
+Norm,Stucco,CmentBd,1,Gd,E3
+Norm,Stucco,Stucco,2,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Ex,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,TA,E3
+Norm,VinylSd,VinylSd,1,Ex,E3
+Norm,BrkFace,BrkFace,1,Gd,E3
+Norm,CemntBd,CmentBd,2,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Ex,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,1,Gd,E3
+Norm,VinylSd,VinylSd,2,Gd,E3
+Artery,Wd Sdng,Wd Sdng,2,TA,E3
+Norm,VinylSd,VinylSd,2,Gd,E3
+Norm,VinylSd,VinylSd,2,Gd,E3
+Norm,CemntBd,CmentBd,1,Gd,E3
+
